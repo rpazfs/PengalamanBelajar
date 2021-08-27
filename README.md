@@ -1,7 +1,7 @@
 # PengalamanBelajar
 Repository ini berisi tentang pengalaman belajarku di Dicoding
 
-27 Juni 2021
+**27 Juni 2021**
 
 Belajar kelas Git dengan Github. (Progress 45%)
 
@@ -9,7 +9,7 @@ Belajar kelas Git dengan Github. (Progress 45%)
   - Dasar Git
   - Studi Kasus Pengalaman Belajar
 
-15 Juni 2021
+**15 Juni 2021**
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
